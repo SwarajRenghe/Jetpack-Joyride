@@ -1,0 +1,3 @@
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/build/CMakeFiles/rebuild_cache.dir
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/build/CMakeFiles/graphics_asgn1.dir
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/build/CMakeFiles/edit_cache.dir

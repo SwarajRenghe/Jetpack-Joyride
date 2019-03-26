@@ -1,0 +1,358 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/bullets.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+bullets.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/bullets.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/bullets.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/coin.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+coin.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/coin.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/coin.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/color.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/dragon.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+dragon.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/dragon.h
+ice_bullets.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/ice_bullets.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/dragon.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy1.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+enemy1.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy1.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy1.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy2.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+enemy2.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy2.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy2.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy3.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+enemy3.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy3.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy3.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/floorBlock.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+floorBlock.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/floorBlock.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/floorBlock.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/ice_bullets.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+ice_bullets.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/ice_bullets.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/ice_bullets.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/input.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+jetpack.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack_fire.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+jetpack_fire.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack_fire.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack_fire.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/magnet.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+magnet.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/magnet.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/magnet.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+timer.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/timer.h
+floorBlock.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/floorBlock.h
+jetpack.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack.h
+coin.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/coin.h
+enemy1.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy1.h
+enemy2.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy2.h
+enemy3.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/enemy3.h
+square.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/square.h
+bullets.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/bullets.h
+jetpack_fire.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/jetpack_fire.h
+magnet.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/magnet.h
+powerup.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/powerup.h
+semi_circle.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/semi_circle.h
+dragon.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/dragon.h
+ice_bullets.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/ice_bullets.h
+seven_segment_display.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/seven_segment_display.h
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+iostream
+-
+stdlib.h
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/other_handlers.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/powerup.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+powerup.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/powerup.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/powerup.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/semi_circle.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+semi_circle.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/semi_circle.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/semi_circle.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/seven_segment_display.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+seven_segment_display.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/seven_segment_display.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/seven_segment_display.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/square.cpp
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+square.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/square.h
+iostream
+-
+stdio.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/square.h
+main.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/main.h
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/timer.cpp
+timer.h
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/timer.h
+GLFW/glfw3.h
+-
+
+/home/renghe/Documents/2 - 2/Graphics/OpenGL Projects/jetpack_joyride/src/timer.h
+
